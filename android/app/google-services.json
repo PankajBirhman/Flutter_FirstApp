@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "527468275809",
+    "firebase_url": "https://shoekart-adc40-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "shoekart-adc40",
+    "storage_bucket": "shoekart-adc40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527468275809:android:f8c5f8194add15496fe220",
+        "android_client_info": {
+          "package_name": "com.example.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527468275809-niatn543a325hruvlvm083roba58evjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtK4Kn5boyx9uPPuvEvExI8y5W5eh0HHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527468275809-niatn543a325hruvlvm083roba58evjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
